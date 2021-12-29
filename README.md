@@ -3,7 +3,7 @@ Passive infrared sensors have widespread use in many applications, including mot
 
 The developed forecast algorithm for the case was applied device by device. So, it can be reached out to each model from the model folder. At the end of the running project, all device predictions were added to the one dataframe.
 
-![img.png](img.png)
+![flow.jpg](flow.jpg)
 
 ## Docker Commands
 
